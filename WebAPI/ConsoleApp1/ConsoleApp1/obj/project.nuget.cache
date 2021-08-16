@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ana/ObtyPlVZKdWjPIc1xnFCgJ0AYjj2jq7GXGXHllTzZYFIq9LRRT0YL3cVhjwqxhroQOf3gaitKIOI4+Pa5A==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\WebAPI\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ckumar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
